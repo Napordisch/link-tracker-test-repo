@@ -3,3 +3,4 @@ new line
 a
 b
 c
+d
